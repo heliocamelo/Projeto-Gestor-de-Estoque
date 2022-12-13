@@ -1,0 +1,8 @@
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\bin\Debug\Gestor_de_estoque.exe.config
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\bin\Debug\Gestor_de_estoque.exe
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\bin\Debug\Gestor_de_estoque.pdb
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\obj\Debug\Gestor_de_estoque.csproj.AssemblyReference.cache
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\obj\Debug\Gestor_de_estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\obj\Debug\Gestor_de_estoque.csproj.CoreCompileInputs.cache
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\obj\Debug\Gestor_de_estoque.exe
+C:\Users\helio\OneDrive\Área de Trabalho\Projeto3\Gestor_de_estoque\Gestor_de_estoque\obj\Debug\Gestor_de_estoque.pdb
