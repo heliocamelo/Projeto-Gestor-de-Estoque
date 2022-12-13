@@ -20,6 +20,7 @@ namespace Gestor_de_estoque
             while (!escolheuSair)
             {
                 Console.WriteLine(" --Sistema de Estoque-- ");
+                Console.WriteLine("Digite um número para o que deseja: ");
                 Console.WriteLine("1 - Listar\n2 - Adicionar\n3 - Remover\n4 - Registrar Entrada\n5 - Registrar Saída\n6 - Sair");
                 string opStr = Console.ReadLine();
                 int opInt = int.Parse(opStr);
